@@ -1,2 +1,6 @@
 .gitignore
 .idea
+..spec
+build/
+dist/
+bgm/
